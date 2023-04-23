@@ -7,7 +7,7 @@ Let's connect and chat! You can also find me on:
 <!-- nice themes: vue-dark, react, yeblu -->
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AndersonMamede&show_icons=true&count_private=true&include_all_commits=true&number_format=long&custom_title=My+Stats)
 
-## 📝 Some blog posts:
+## 📝 Some of my blog posts:
 
 - [PHP session - Behind the scenes](https://blog.andersonmamede.com.br/php-session-behind-the-scenes/)
 - [Creating an extension - Part 1: Quick start with Boilerplate](https://blog.andersonmamede.com.br/creating-an-extension-part-1-quick-start-with-boilerplate/)
