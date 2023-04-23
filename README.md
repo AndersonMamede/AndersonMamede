@@ -4,7 +4,13 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AndersonMamede&show_icons=true&count_private=true)
 
-### Hi there 👋
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=AndersonMamede&show_icons=true&count_private=true&theme=vue-dark)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=AndersonMamede&show_icons=true&count_private=true&theme=react)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=AndersonMamede&show_icons=true&count_private=true&theme=jolly)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=AndersonMamede&show_icons=true&count_private=true&theme=yeblu)
 
 <!--
 - 🔭 I’m currently working on ...
