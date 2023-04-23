@@ -17,8 +17,8 @@ Let's connect and chat! You can also find me on:
 
 ## 📝 Some of my blog posts:
 
-- [PHP session - Behind the scenes](https://blog.andersonmamede.com.br/php-session-behind-the-scenes/)
 - [Creating an extension - Part 1: Quick start with Boilerplate](https://blog.andersonmamede.com.br/creating-an-extension-part-1-quick-start-with-boilerplate/)
+- [PHP session - Behind the scenes](https://blog.andersonmamede.com.br/php-session-behind-the-scenes/)
 - [Improving productivity in ScriptCase environment](https://blog.andersonmamede.com.br/improving-productivity-in-scriptcase-environment/)
 - [Image preview before upload](https://blog.andersonmamede.com.br/image-preview-before-upload/)
 
