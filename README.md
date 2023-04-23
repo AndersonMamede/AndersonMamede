@@ -2,13 +2,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anderson-ravagnani-m-692ab328/)](https://www.linkedin.com/in/anderson-ravagnani-m-692ab328/)
 
+<!-- nice themes: vue-dark, react, yeblu -->
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AndersonMamede&show_icons=true&count_private=true&include_all_commits=true&number_format=long&custom_title=MyGitHubStats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=AndersonMamede&show_icons=true&count_private=true&theme=vue-dark)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=AndersonMamede&show_icons=true&count_private=true&theme=react)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=AndersonMamede&show_icons=true&count_private=true&theme=yeblu)
 
 <!--
 - 🔭 I’m currently working on ...
