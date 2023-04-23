@@ -1,9 +1,9 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAndersonMamede%2F&count_bg=%2379C83D&title_bg=%23555555&icon=spreaker.svg&icon_color=%23E7E7E7&title=Visitors&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAndersonMamede%2F&count_bg=%2379C83D&title_bg=%23555555&icon=spreaker.svg&icon_color=%23E7E7E7&title=Visitors&edge_flat=false)](https://github.com/AndersonMamede)
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anderson-ravagnani-m-692ab328/)](https://www.linkedin.com/in/anderson-ravagnani-m-692ab328/)
 
 <!-- nice themes: vue-dark, react, yeblu -->
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=AndersonMamede&show_icons=true&count_private=true&include_all_commits=true&number_format=long&custom_title=MyGitHubStats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=AndersonMamede&show_icons=true&count_private=true&include_all_commits=true&number_format=long&custom_title=My+Stats)
 
 <!--
 - 🔭 I’m currently working on ...
