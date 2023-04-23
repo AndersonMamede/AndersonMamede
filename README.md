@@ -5,11 +5,15 @@
 Let's connect and chat! You can also find me on:
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anderson-ravagnani-m-692ab328/)](https://www.linkedin.com/in/anderson-ravagnani-m-692ab328/?locale=en_US)
+&nbsp;&nbsp;&nbsp;
+<a href="https://blog.andersonmamede.com.br/" target="_blank" rel="noopener">
+  <img src="https://img.shields.io/badge/My%20website-%237A3C3C.svg?&style=for-the-badge" alt="My website" title="My website"/>
+</a>
 
 ##
 
 <!-- nice themes: vue-dark, react, yeblu -->
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=AndersonMamede&show_icons=true&count_private=true&include_all_commits=true&number_format=long&custom_title=My+Stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=AndersonMamede&show_icons=true&count_private=true&include_all_commits=true&number_format=long)
 
 ## 📝 Some of my blog posts:
 
