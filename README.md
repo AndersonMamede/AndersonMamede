@@ -13,7 +13,7 @@ Let's connect and chat! You can also find me on:
 ##
 
 <!-- nice themes: vue-dark, react, yeblu -->
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=AndersonMamede&show_icons=true&count_private=true&include_all_commits=true&number_format=long)
+<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AndersonMamede&show_icons=true&count_private=true&include_all_commits=true&number_format=long) -->
 
 ## 📝 Some of my blog posts:
 
