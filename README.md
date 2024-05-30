@@ -15,6 +15,15 @@ Let's connect and chat! You can also find me on:
 <!-- nice themes: vue-dark, react, yeblu -->
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AndersonMamede&show_icons=true&count_private=true&include_all_commits=true&number_format=long) -->
 
+## 📝 My main projects:
+- [electron-progressbar](https://github.com/AndersonMamede/electron-progressbar) - library for Electron.js (open-source)
+- [ScriptCase Tools](https://github.com/AndersonMamede/scriptcase-tools) - browser extension (open-source)
+- [Color Mixing Matching](https://play.google.com/store/apps/details?id=com.appstorehouse.cbq.app&hl=en) - mobile game (free)
+- [Easy Bills Reminder/Organizer](https://play.google.com/store/apps/details?id=com.appstorehouse.lcf.app&hl=en) - mobile app (free)
+- [Material Design Palette](https://chrome.google.com/webstore/detail/material-design-palette/iklaoaeikobdklaggagbapdkhamhdjoc) - Chrome extension (free)
+- [merge-pdf-files](https://github.com/AndersonMamede/merge-pdf-files) - PHP project/library (open-source)
+
+<!--
 ## 📝 Some of my blog posts:
 
 - [Creating an extension - Part 1: Quick start with Boilerplate](https://blog.andersonmamede.com.br/creating-an-extension-part-1-quick-start-with-boilerplate/)
@@ -22,7 +31,6 @@ Let's connect and chat! You can also find me on:
 - [Improving productivity in ScriptCase environment](https://blog.andersonmamede.com.br/improving-productivity-in-scriptcase-environment/)
 - [Image preview before upload](https://blog.andersonmamede.com.br/image-preview-before-upload/)
 
-<!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 📫 How to reach me: ...
