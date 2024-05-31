@@ -16,12 +16,12 @@ Let's connect and chat! You can also find me on:
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AndersonMamede&show_icons=true&count_private=true&include_all_commits=true&number_format=long) -->
 
 ## 📝 My main projects:
-- [electron-progressbar](https://github.com/AndersonMamede/electron-progressbar) - library for Electron.js (open-source)
-- [ScriptCase Tools](https://github.com/AndersonMamede/scriptcase-tools) - browser extension (open-source)
-- [Color Mixing Matching](https://play.google.com/store/apps/details?id=com.appstorehouse.cbq.app&hl=en) - mobile game (free)
-- [Easy Bills Reminder/Organizer](https://play.google.com/store/apps/details?id=com.appstorehouse.lcf.app&hl=en) - mobile app (free)
-- [Material Design Palette](https://chrome.google.com/webstore/detail/material-design-palette/iklaoaeikobdklaggagbapdkhamhdjoc) - Chrome extension (free)
-- [merge-pdf-files](https://github.com/AndersonMamede/merge-pdf-files) - PHP project/library (open-source)
+- [electron-progressbar](https://github.com/AndersonMamede/electron-progressbar) - an **open-source** library that enhances UI/UX for 200,000+ projects
+- [ScriptCase Tools](https://github.com/AndersonMamede/scriptcase-tools) - an **open-source** browser extension that streamlines work for 16,000+ developers
+- [Color Mixing Matching](https://play.google.com/store/apps/details?id=com.appstorehouse.cbq.app&hl=en) - a **free** mobile game engaging 50,000+ players
+- [Easy Bills Reminder/Organizer](https://play.google.com/store/apps/details?id=com.appstorehouse.lcf.app&hl=en) - a **free** mobile app helping 29,000+ users to easily manage their finances
+- [Material Design Palette](https://chrome.google.com/webstore/detail/material-design-palette/iklaoaeikobdklaggagbapdkhamhdjoc) - a **free** Chrome extension that simplifies the design workflow for 800+ developers
+- [merge-pdf-files](https://github.com/AndersonMamede/merge-pdf-files) - an **open-source** PHP project/library
 
 <!--
 ## 📝 Some of my blog posts:
