@@ -18,8 +18,8 @@ Let's connect and chat! You can also find me on:
 ## 📝 My main projects:
 - [electron-progressbar](https://github.com/AndersonMamede/electron-progressbar) - an **open-source** library that enhances UI/UX for 200,000+ projects
 - [ScriptCase Tools](https://github.com/AndersonMamede/scriptcase-tools) - an **open-source** browser extension that streamlines work for 16,000+ developers
-- [Color Mixing Matching](https://play.google.com/store/apps/details?id=com.appstorehouse.cbq.app&hl=en) - a **free** mobile game engaging 50,000+ players
-- [Easy Bills Reminder/Organizer](https://play.google.com/store/apps/details?id=com.appstorehouse.lcf.app&hl=en) - a **free** mobile app helping 29,000+ users to easily manage their finances
+- [Color Mixing Matching](https://play.google.com/store/apps/details?id=com.appstorehouse.cbq.app&hl=en) - a **free** mobile game engaging 77,000+ players
+- [Easy Bills Reminder/Organizer](https://play.google.com/store/apps/details?id=com.appstorehouse.lcf.app&hl=en) - a **free** mobile app helping 42,000+ users to easily manage their finances
 - [Material Design Palette](https://chrome.google.com/webstore/detail/material-design-palette/iklaoaeikobdklaggagbapdkhamhdjoc) - a **free** Chrome extension that simplifies the design workflow for 800+ developers
 - [merge-pdf-files](https://github.com/AndersonMamede/merge-pdf-files) - an **open-source** PHP project/library
 
