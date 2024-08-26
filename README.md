@@ -21,7 +21,7 @@ Let's connect and chat! You can also find me on:
 - [Color Mixing Matching](https://play.google.com/store/apps/details?id=com.appstorehouse.cbq.app&hl=en) - a **free** mobile game/app engaging 77,000+ users and players;
 - [Easy Bills Reminder/Organizer](https://play.google.com/store/apps/details?id=com.appstorehouse.lcf.app&hl=en) - a **free** mobile app helping 42,000+ users to easily manage their finances;
 - [Material Design Palette](https://chrome.google.com/webstore/detail/material-design-palette/iklaoaeikobdklaggagbapdkhamhdjoc) - a **free** Chrome extension that simplifies the design workflow for 800+ developers;
-- [merge-pdf-files](https://github.com/AndersonMamede/merge-pdf-files) - an **open-source** PHP project/library
+- [merge-pdf-files](https://github.com/AndersonMamede/merge-pdf-files) - an **open-source** PHP project/library;
 
 <!--
 ## 📝 Some of my blog posts:
