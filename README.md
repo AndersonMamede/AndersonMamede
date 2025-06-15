@@ -1,5 +1,3 @@
-[![Visitors](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAndersonMamede%2F&count_bg=%2379C83D&title_bg=%23555555&icon=spreaker.svg&icon_color=%23E7E7E7&title=Visitors&edge_flat=false)](https://github.com/AndersonMamede)
-
 ## Hey there!
 
 Let's connect and chat! You can also find me on:
